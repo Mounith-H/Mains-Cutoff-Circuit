@@ -117,6 +117,9 @@ AC Input → Voltage Sensing → Threshold Comparison → Relay Control → Load
 - **No Live Adjustments**: Always power off before adjusting `RV1/RV2/RV3`.  
 - **Secure Connections**: Double-check terminal blocks (`J1/J5`) and transformer wiring.  
 
+
+### Created by [Mounith H] – 📧 mounith.h@gmail.com
+
 ## License 📄  
 ```text
 MIT License
@@ -140,3 +143,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
